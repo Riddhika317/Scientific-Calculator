@@ -63,8 +63,3 @@ The calculator window should launch and be ready to use.
 
 ---
 
-## 💡 Future Improvements *(Optional Section)*
-
-- Add memory functionality (M+, M-, MR, etc.)
-- Support for history of calculations
-- Dark mode for better UI/UX
